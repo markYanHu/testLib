@@ -1,0 +1,6 @@
+framework module Pods_tsetLib {
+  umbrella header "Pods-tsetLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
